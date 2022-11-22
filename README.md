@@ -19,4 +19,4 @@ If affirmations are not your jam, then you could do a daily joke or insult. Plea
 
 Final challenge: Can you create if statements that do not care about capital or lowercase letters of names.
 
-😊
+
